@@ -1,5 +1,6 @@
 libsecp256k1
 ============
+https://docs.rs/libsecp256k1/latest/libsecp256k1/index.html
 
 [![Build Status](https://api.cirrus-ci.com/github/bitcoin-core/secp256k1.svg?branch=master)](https://cirrus-ci.com/github/bitcoin-core/secp256k1)
 ![Dependencies: None](https://img.shields.io/badge/dependencies-none-success)
